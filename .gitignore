@@ -1,3 +1,9 @@
-*.out
+# Simulation outputs
 *.vcd
+*.out
 *.vvp
+simv
+mysim
+
+# VS Code temporary files
+tempCodeRunnerFile.v
